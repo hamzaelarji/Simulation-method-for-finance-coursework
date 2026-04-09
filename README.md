@@ -8,6 +8,13 @@ Group coursework — Imperial College London.
 - Chedi Mnif (06064588)
 - Diane Murzi (06048769)
 
+## Repository
+
+The full project (code and experiments) is available on GitHub:  
+👉 https://github.com/hamzaelarji/Simulation-method-for-finance-coursework
+
+This repository mirrors the submitted coursework and allows reproducibility of all numerical results.
+
 This repository contains the two Jupyter notebooks that implement the numerical experiments for the group assignment, together with the source paper for Part 2 and the original assignment brief.
 
 ## Repository contents
